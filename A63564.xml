@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A True narrative of the confession and execution of the three prisonrs [sic] at Tyburn, on Fryday the 20th of this instant July viz. Capt. Thomas Walcot, John Rouse, William Hone : all three drawn, hang'd, and quarter'd for high treason against His Majesty, and conspiring the death of the Duke of York.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63564</idno>
+            <idno type="STC">Wing T2781</idno>
+            <idno type="STC">ESTC R12618</idno>
+            <idno type="EEBO-CITATION">13801534</idno>
+            <idno type="OCLC">ocm 13801534</idno>
+            <idno type="VID">101944</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63564)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101944)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 853:53, 2158:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A True narrative of the confession and execution of the three prisonrs [sic] at Tyburn, on Fryday the 20th of this instant July viz. Capt. Thomas Walcot, John Rouse, William Hone : all three drawn, hang'd, and quarter'd for high treason against His Majesty, and conspiring the death of the Duke of York.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G.P.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Item at 853:53 incorrectly identified as Wing T2781.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Walcot, Thomas, d. 1683.</term>
+               <term>Rouse, John, d. 1683.</term>
+               <term>Hone, William, d. 1683.</term>
+               <term>Rye House Plot, 1683.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:101944:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 7 -->
+            <head>A TRUE NARRATIVE OF THE CONFESSION AND EXECUTION Of the three Priſonrs at TYBURN <date>On <hi>Fryday</hi> the 20th of this Inſtant <hi>July</hi>
+               </date>
+               <lb/>
+               <hi>Viz. Capt. Thomas Walcot, John Rouſe, Willing Hone.</hi>
+            </head>
+            <head type="sub">All three Drawn, Hang'd, and Quarter'd, for High Treaſon, againſt his Majeſty, and conſpiring the Death of the <hi>Duke</hi> of <hi>York.</hi>
+            </head>
+            <p>ON <hi>Friday</hi> the 20th of <hi>July</hi> 1683, The three Traytors <hi>William Hone, Thomas Walcot,</hi> and <hi>John Rouſe,</hi> vvere, in order to their Condemnation dravvn upon Hurdles to the place of Execution, to receive the puniſhmerts order'd for them, for their Helliſh Conſpiracy. Captain <hi>Walcot</hi> vvho vvas of a ſurly and reſolute Temper, ſeem'd not to be con<g ref="char:EOLhyphen"/>cerned at, or troubled for his moſt diſmal undertaking, or Diabo<g ref="char:EOLhyphen"/>lical Stratagem, pointed at by the finger of Heaven, and Odious to the Eyes of the vvhole Earth, but rather obſtinately, and obdu<g ref="char:EOLhyphen"/>rately ſeemed to juſtifie himſelf in this bloody deſign' thaogh nei<g ref="char:EOLhyphen"/>ther he, nor any of the other tvvo can deny but that they vvere concerned in the Plot, though not ſo deeply as they vvere ac<g ref="char:EOLhyphen"/>cuſed. But take an Ac<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ount of their tryals firſt.</p>
+            <pb n="2" facs="tcp:101944:2"/>
+            <!-- PDF PAGE 8 -->
+            <p>It is ſtrange to conſider the impudence of ſome diſſatisfied per<g ref="char:EOLhyphen"/>ſons, who cannot be contented to live under the civil Government of a Gracious Prince: But on the contrary Helliſhly and Maliciouſly contrive and conſpire the Death of their Soveraign, the Ruin of the Nation, and without Gods great Mercy, their own ever<g ref="char:EOLhyphen"/>laſting overthrow. How many hundreds were there, that at firſt would hardly believe that there was a Plot, but now I hope they will believe what theſe perſons we have to inſiſt up<g ref="char:EOLhyphen"/>on have owned and confeſſed: and it cannot be imagined that they would acknovvledg more againſt themſelves than the truth. But great pitty it is, that Man the very Image, of God him<g ref="char:EOLhyphen"/>ſelf, ſhould ſo degenerate from all other Creatures, as to ſtudy the overthrow of his fellow Creature but much more of a Prince<g ref="char:EOLhyphen"/>ly Monarch; ordained and anointed to rule over us by the eſ<g ref="char:EOLhyphen"/>pecial providence of the Almighty and not only againſt his Gra<g ref="char:EOLhyphen"/>cious Majeſty was this accurſed not contrived, but alſo againſt his Royal Brother <hi>James</hi> Duke of <hi>York,</hi> and indeed the whole Land, as it would have proved, had not the everlaſting love of the everliving God miraculouſly prevented the bloody deſignes of the intended Regicides by the happy diſcovery of this un<g ref="char:EOLhyphen"/>paraleld cruelty deſigned.</p>
+            <p>And now to begin with my Lord <hi>Ruſſel,</hi> who on <hi>Friday</hi> the 13th Inſtant, 1683. was condemned to die, for having a Confe<g ref="char:EOLhyphen"/>deracy in this Conſpiracy, but he only owned that he was ſe<g ref="char:EOLhyphen"/>veral times with the Conſpirators, who were called by the name of the Council, but was not of the Conſult.</p>
+            <p>But Collonel <hi>Rumſey,</hi> ſwore that the Lord <hi>Shaftsbury</hi> told him that the Lord <hi>Ruſſel</hi> was one of the Conſult, which with other Evidence cauſed him to be condemned. And upon <hi>Saturday</hi> the 14th. of <hi>July</hi> was conveyed from <hi>Newgate</hi> to the place of Execution, and during his time after his Condemnation, he Mourn<g ref="char:EOLhyphen"/>ned exceedingly, continually alledging that he was drawn in by that ſpawn of policy <hi>Shaftsbury,</hi> who was without all doubt the Father and Contriver of this Damnable Plot, to the great loſs and ruin of ſo many mens lives as are likely to ſuffer for, and through his accurſed Treaſon.</p>
+            <p>My Lord was reported to be a perſon Excellently qualified and of wonderfull parts, but too much adhering to the Seditious contrivan<g ref="char:EOLhyphen"/>ces of thoſe Machivilians, whoſe policy was only uſed to bad ends and purpoſes, as in the concluſion it will prove to be to them.</p>
+            <p>My Lord doth not ſeem to diſown his Charge, but much laments that he ſhould be ſo enſnared. And great pity it is that a gentleman of his deſcent; and ſo adorned by the guifts of nature pretences' of a Politick Statſmau: whoſe Aim without doubt,
+<pb n="3" facs="tcp:101944:2"/>
+               <!-- PDF PAGE 8 -->was, by the ruin and extirpation of the <hi>Royal</hi> Famely, to ad<g ref="char:EOLhyphen"/>vance himſelf and his Poſterity, by bringing in ſchiſmaticall Laws and cuſtoms, anſwerable to the maggot of his never ſatiſfied humous. But the great God of heaven, who hath at ſeveral times and by ſeveral means apparently manifeſted, his great and unſpeakable kindneſs to our ſhvereign, hath yet once more put a period to, and utterly confounded the wicked con<g ref="char:EOLhyphen"/>trivanees, and bloody ſtratagems of theſe wicked wretches, whoſe endeavours were to compaſs, what heaven in mercy hath forbid,</p>
+            <p>
+               <hi>Thomas Walcot, John Rouſe, and William Hone,</hi> besng all Indicted for High Treaſon, as conſpiring and contriving the death of his moſt ſacred Majeſty, and his Royal brother, and endeavouring to Levy War, and by force of Arms to ſubvert the goverment of the Nation, by involving the ſubjects thereof into a labyrinth of unſpeak<g ref="char:EOLhyphen"/>able trouble, could make but ſlender defence for themſeves. <hi>Will<g ref="char:EOLhyphen"/>iaem Hone,</hi> aforementioned, was very deſirous to make his tryal, by confeſſing to part to the Indictment, but my Lord Cheif Juſtice <hi>Pemberton,</hi> anſwered that what he had there confeſſed was ſufficient to convict him, but yet for popular ſatiſaction he ſhould take a fair tryal in the face of his Country, and accordingly ſo it was, ſo that in a litle time he was brought in guilty of High Treaſon, and ſo was remanded to Priſon from whence he came with a conſcience as full of guilt as the world full of wonder at the Audacitie of ſuch Vilains.</p>
+            <p>Captain <hi>Walcot,</hi> he was charged vvith High Treaſon, alſo he could not flatly deny his charge, but ovvned that he was in the conſpira<g ref="char:EOLhyphen"/>cy, yet denyed that he vvas any vvay concerned in the Aſſaſſinating his Majeſteys Royal perſon, but did acknovvledg that he vvas enga<g ref="char:EOLhyphen"/>ged to fight the Guard, vvhich acknovvledgment vvas ſufficient to do his buſineſs; and the Court thereupon brought him in Guilty.</p>
+            <p>The next vvas <hi>John Rouſe,</hi> againſt vvhom one <hi>Lee</hi> ſvvore that he had ſeveral times contrived the Death of the King, and that an Ar<g ref="char:EOLhyphen"/>my vvas to be raiſed, for the carrying on their deſign of ſubvertion, and that he vvas to be Pay-Maſter thereof.</p>
+            <p>All vvhich vvas ſtrongly oppoſed by <hi>Rouſe,</hi> and on the contrary he alledged that ſuch propoſals were moved to him by <hi>Lee,</hi> but he flatly deny'd them.</p>
+            <p>One <hi>Corbin</hi> made Oath, that in 1681. <hi>Rouſe</hi> told him that the King had forfeited his Crovvn, and Mr. <hi>William Richardſon</hi> ſvvore that vvhen he vvent to take <hi>Rouſe,</hi> he diſovvned his Name, and called himſelf by the name of <hi>Johnſon.</hi>
+            </p>
+            <pb n="4" facs="tcp:101944:3"/>
+            <!-- PDF PAGE 9 -->
+            <p>All vvhich being ſum'd up, the Jury vvithout going out of Court brought him in Guilty.</p>
+            <p>But vvhen they came to the place of Execution, vvhere they vvere to part vvith their fainting Breath, Oh! vvhat Conſternation appeared in their Countenances, vvhat Horrour ſeemed to ſurprize them, and vvhat dread afflicted their drooping Souls, <hi>I</hi> leave it to the Judgment of thoſe, vvho ever looked Grim Death in the Face? hovv did they lament their ill deeds? hovv did they recal their miſ<g ref="char:EOLhyphen"/>pent time? What an Ocean of Calamities, did at that minute en<g ref="char:EOLhyphen"/>compaſs them, and even drovvn them in Seas of ſorrovv. But for perfect Teſtimony of their unfeigned repentance, they gave good advice, and Chriſtian admonition, to all perſons of vvhat Age or Sex ſoever, to abominate ſuch evil deſigns, and wholly to depend upon God for a timely deliverance from any thing that ſhall trouble them, and not go indirectly, to vvrap themſelves into endleſs trou<g ref="char:EOLhyphen"/>bles, by ſeeking their ovvn Ruins, by unadviſed, and inconſiderate means. Thus did they for a ſhort ſpace ſignifie their ſorrovvs, and lament their deplorable ends.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON</hi> Printed for <hi>G. P.</hi> 1683.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
